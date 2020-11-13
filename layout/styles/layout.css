@@ -1,12 +1,5 @@
 @charset "utf-8";
-/*
-Template Name: Presentable
-Author: <a href="http://www.os-templates.com/">OS Templates</a>
-Author URI: http://www.os-templates.com/
-Licence: Free to use under our free template licence terms
-Licence URI: http://www.os-templates.com/template-terms
-File: Layout CSS
-*/
+
 
 @import url("navi.css");
 @import url("forms.css");
@@ -46,7 +39,7 @@ img{display:block; margin:0; padding:0; border:0;}
 /* ----------------------------------------------Wrapper------------------------------------- */
 
 div.wrapper{display:block; width:100%; margin:0; text-align:left;}
-div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, div.wrapper h6{margin:0 0 15px 0; padding:0 0 8px 0; font-size:20px; font-weight:normal; font-family:Georgia, "Times New Roman", Times, serif; border-bottom:1px dotted #362C20;}
+div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, div.wrapper h6{margin:0 0 15px 0; padding:0 0 8px 0; font-size:24px; font-weight:normal; font-family:Georgia, "Times New Roman", Times, serif; border-bottom:1px dotted #362C20;}
 .col1{color:#FFFFFF; background-color:#CBCFB5; border-top:5px solid #362C20;}
 .col2{color:#B6B6B6; background:#362C20;}
 .col2 a{color:#FF9900; background-color:#362C20;}
