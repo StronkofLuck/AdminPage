@@ -1,4 +1,6 @@
-AuthUserFile /.htpasswd
+<Files index.html>
+AuthName "Dialog prompt"
 AuthType Basic
-AuthName “Login Details”
+AuthUserFile .htpasswd
 Require valid-user
+</Files>
